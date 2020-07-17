@@ -1,4 +1,4 @@
-baseurl = "https://hans-pistor.github.io/"
+baseurl = "https://www.hanspistor.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
