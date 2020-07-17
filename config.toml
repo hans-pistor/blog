@@ -21,7 +21,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"gg
+      logoText = "Terminal"
       logoHomeLink = "/"
 
     [languages.en.menu]
