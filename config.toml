@@ -1,4 +1,4 @@
-baseurl = "http://www.hanspistor.com/"
+baseurl = "https://hans-pistor.github.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -21,7 +21,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Terminal"gg
       logoHomeLink = "/"
 
     [languages.en.menu]

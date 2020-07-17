@@ -6,7 +6,7 @@
 :EXPORT_HUGO_MENU: :menu "main"
 :END:
 This is the home of my blog!
-* About
+* About                                                            :personal:
 	:PROPERTIES:
 	:EXPORT_FILE_NAME: about
 	:EXPORT_HUGO_SECTION: 
@@ -23,6 +23,10 @@ This is the home of my blog!
 :END:
 Man, look at all my blog posts.
 ** One Bad Night  :@updates:herpes:fear:
+:PROPERTIES:
+:EXPORT_FILE_NAME: bad-night
+:END:
+Someone gave me herpes! Oh no!
 * Fishsticks
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: fishsticks
